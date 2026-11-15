@@ -6,6 +6,7 @@
     "enabled": true
   },
   "assets": {
-    "directory": "."
+    // Static output of `next build` (output: 'export').
+    "directory": "./out"
   }
 }
